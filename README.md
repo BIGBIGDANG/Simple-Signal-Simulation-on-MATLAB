@@ -18,7 +18,7 @@
 All plotted in one window for comparison (2×4 subplots: FFT/IFFT vs DFT/IDFT).
 
 **Insert figure here**
-![Lab 1 Results](./figs/lab1_fft_dft.png)
+![Lab 1 Results](FFT.png)
 
 **Key observations (brief)**
 - Larger **Thr** → sparser spectrum but more detail loss in the reconstructed signal.
@@ -33,7 +33,7 @@ All plotted in one window for comparison (2×4 subplots: FFT/IFFT vs DFT/IDFT).
 - Phase response (unwrapped)
 
 **Insert figure here**
-![Lab 2 Results](./figs/lab2_iir_butter.png)
+![Lab 2 Results](IIR.png)
 
 **Key observations (brief)**
 - The magnitude response meets the passband ripple constraint at **fp** and the stopband attenuation at **fs**.
